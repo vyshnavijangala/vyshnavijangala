@@ -1,4 +1,4 @@
-- class Flower:
+- classFlower:
   def __init__(self,petalName,petalNumber,petalPrice):
     self.name=petalName
     self.number=petalNumber
